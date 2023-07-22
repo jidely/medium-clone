@@ -5,4 +5,4 @@
 # Önizleme
 
 ![preview](medium.png)
-![preview2](medium2.png)
+![preview](medium2.png)
