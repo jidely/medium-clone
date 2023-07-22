@@ -4,5 +4,5 @@
 
 # Önizleme
 
-![medium.png]
-![medium.png]
+![preview](medium.png)
+![preview2](medium2.png)
